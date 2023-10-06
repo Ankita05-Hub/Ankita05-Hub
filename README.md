@@ -67,13 +67,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://images.app.goo.gl/ZUxvpeht5itdsVzH6"  />
-</div>
-
-###
 
 
 
