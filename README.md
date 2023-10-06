@@ -14,7 +14,7 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita05-Hub.Ankita05-Hub&right_color=white"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita05-Hub.Ankita05-Hub"  />
 </div>
 
 
