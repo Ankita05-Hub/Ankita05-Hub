@@ -13,12 +13,10 @@
 </div>
 
 ###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita05-Hub.Ankita05-Hub"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita05-Hub.Ankita05-Hub&right_color=white"  />
 </div>
-
-
-
 
 ###
 
@@ -26,15 +24,17 @@
 
 ###
 
-<h3 align="left">👩‍💻   Hello there! I'm a passionate second-year Computer Science student on a journey to explore the vast realms of technology and innovation. With a deep-seated curiosity for problem-solving and a love for coding, I thrive in the world of algorithms and software development. My GitHub profile serves as a canvas where I paint my coding adventures, showcasing projects that reflect my commitment to learning and applying cutting-edge technologies. From web development to algorithmic challenges, each repository tells a unique story of my growth as a developer. Join me on this exciting expedition as I continue to expand my skills, collaborate with like-minded individuals, and contribute to the ever-evolving landscape of computer science. Together, let's code the future!</h3>
+<br clear="both">
+
+<h3 align="left" style="color: white;">👩‍💻   Hello there! I'm a passionate second-year Computer Science student on a journey to explore the vast realms of technology and innovation. With a deep-seated curiosity for problem-solving and a love for coding, I thrive in the world of algorithms and software development. My GitHub profile serves as a canvas where I paint my coding adventures, showcasing projects that reflect my commitment to learning and applying cutting-edge technologies. From web development to algorithmic challenges, each repository tells a unique story of my growth as a developer. Join me on this exciting expedition as I continue to expand my skills, collaborate with like-minded individuals, and contribute to the ever-evolving landscape of computer science. Together, let's code the future!</h3>
 
 ###
 
-<p align="left">- 📚 I'm currently exploring technology to deepen my understanding of emerging trends....<br>- ⚡ In my free time I am reading books..</p>
+<p align="left" style="color: white;">- 📚 I'm currently exploring technology to deepen my understanding of emerging trends....<br>- ⚡ In my free time I am reading books..</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" style="color: white;">🛠 Language and tools</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left" style="color: white;">🔥   My Stats :</h3>
 
 ###
 
@@ -68,6 +68,33 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h4 align="left" style="color: white;">Hello World!!!!</h4>
+
+
+
+
+ 
+
 
 
 
