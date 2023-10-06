@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I am Ankita Ganguli</h1>
+<h1 align="center">Hey there 👋<br>I am Ankita Ganguli</h1>
 
 ###
 
