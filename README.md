@@ -19,16 +19,16 @@
 </div>
 
 ###
-
 <h1 align="center">hey there 👋<br>I am Ankita Ganguli</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left" style="color: white;">👩‍💻   Hello there! I'm a passionate second-year Computer Science student on a journey to explore the vast realms of technology and innovation. With a deep-seated curiosity for problem-solving and a love for coding, I thrive in the world of algorithms and software development. My GitHub profile serves as a canvas where I paint my coding adventures, showcasing projects that reflect my commitment to learning and applying cutting-edge technologies. From web development to algorithmic challenges, each repository tells a unique story of my growth as a developer. Join me on this exciting expedition as I continue to expand my skills, collaborate with like-minded individuals, and contribute to the ever-evolving landscape of computer science. Together, let's code the future!</h3>
+<h3 align="left" style="color: white; background-color: white;">👩‍💻   Hello there! I'm a passionate second-year Computer Science student on a journey to explore the vast realms of technology and innovation. With a deep-seated curiosity for problem-solving and a love for coding, I thrive in the world of algorithms and software development. My GitHub profile serves as a canvas where I paint my coding adventures, showcasing projects that reflect my commitment to learning and applying cutting-edge technologies. From web development to algorithmic challenges, each repository tells a unique story of my growth as a developer. Join me on this exciting expedition as I continue to expand my skills, collaborate with like-minded individuals, and contribute to the ever-evolving landscape of computer science. Together, let's code the future!</h3>
 
 ###
+
 
 <p align="left" style="color: white;">- 📚 I'm currently exploring technology to deepen my understanding of emerging trends....<br>- ⚡ In my free time I am reading books..</p>
 
